@@ -1,0 +1,3 @@
+[submodule "lib/CSharpMinerPlugins"]
+	path = lib/CSharpMinerPlugins
+	url = https://github.com/the-best-flash/CSharpMiner.git
